@@ -1,4 +1,3 @@
-#
 `t` is the `type` of the message (remember it).
 <br></br>
 `message` is the `message`.
